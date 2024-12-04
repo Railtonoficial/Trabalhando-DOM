@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação simples de Lista de Compras desenvolvida utilizando HTML, CSS e JavaScript. O objetivo principal foi manipular o DOM (Document Object Model) para criar, excluir e gerenciar elementos dinamicamente, proporcionando uma experiência interativa ao usuário.
 
+**[Clique aqui para visitar o site do projeto](https://railtonoficial.github.io/Trabalhando-DOM/)**
+
 ## Funcionalidades
 
 - Adicionar itens à lista de compras.
